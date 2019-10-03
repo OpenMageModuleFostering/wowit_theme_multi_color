@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Wowit_Theme_Multi_Color",
+    "name": "OpenMageModuleFostering\/Wowit_Theme_Multi_Color",
     "type": "magento-module",
     "license": "EULA",
     "homepage": "",
     "description": "This is a Multi Color magento theme",
     "authors": [
-    {
-        "name": "elharfali",
-        "email": "elharfali.abdelkebir@gmail.com"
-    }
-],
+        {
+            "name": "elharfali",
+            "email": "elharfali.abdelkebir@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
